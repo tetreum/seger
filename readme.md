@@ -27,6 +27,6 @@ Seger follows KISS principle.
 
 1. Fork this repo or if you want to add the blog in to an existing repository, download it as zip and extract it's contents inside a `/docs/` folder on that repository.
 2. Enable GitHub Pages in that repo by going to `https://github.com/YOUR_NICK/YOUR_REPO/settings`
-2. Edit `/docs/config.json`
+2. Edit `config.json`
 3. Access your GitHub Pages and start publishing by going to `/?/blog-editor`!
 
