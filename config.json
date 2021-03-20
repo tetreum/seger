@@ -1,0 +1,23 @@
+{
+    "title": "Seger",
+    "entries" : [
+        {
+            "slug": "living-in-the-gangsters-paradise",
+            "title": "Living in the gangsters paradise",
+            "preview": "This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc",
+            "date": "2021-03-16T20:28:26Z"
+        },
+        {
+            "slug": "the-bishop-case",
+            "title": "The Bishop Case",
+            "preview": "Since faking his own death (at the end of the previous film), Arthur Bishop has been living quietly in Rio de Janeiro under the name Santos. He is approached by a courier, Renee Tran, who knows his true identity and explains that her employer wishes Bishop to kill three targets and stage their deaths as accidents. Bishop escapes, eluding her and her mercenaries and fleeing to Thailand. He takes shelter at the resort island beach house of his friend, Mei, and learns that Tran is working for Riah Crain.",
+            "date": "2021-03-17T21:22:15Z"
+        },
+        {
+            "slug": "comprando-cubos",
+            "title": "Comprando cubos",
+            "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis placerat leo, a semper augue. Curabitur suscipit ligula hendrerit lorem consectetur, at t...",
+            "date": "2021-03-19T04:10:15Z"
+        }
+    ]
+}
