@@ -58,6 +58,9 @@ article img, article video {
     max-width: 100%;
 }
 @media (max-width: 600px) {
+  .navbar-brand img {
+    max-width: 72vw !important;
+  }
   img {
     height: auto;
   }
