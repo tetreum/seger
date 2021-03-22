@@ -12,6 +12,9 @@ h1 {
     font-weight: 800;
     line-height: 1.1;
 }
+img, video {
+    max-width: 100%;
+}
 .post-title {
     color: #404040;
 }
@@ -53,4 +56,9 @@ article {
 }
 article img, article video {
     max-width: 100%;
+}
+@media (max-width: 600px) {
+  img {
+    height: auto;
+  }
 }
